@@ -1,0 +1,5 @@
+c:\users\tung\documents\visual studio 2017\Projects\ThreadDemo\ThreadDemo\bin\Debug\ThreadDemo.exe.config
+c:\users\tung\documents\visual studio 2017\Projects\ThreadDemo\ThreadDemo\bin\Debug\ThreadDemo.exe
+c:\users\tung\documents\visual studio 2017\Projects\ThreadDemo\ThreadDemo\bin\Debug\ThreadDemo.pdb
+c:\users\tung\documents\visual studio 2017\Projects\ThreadDemo\ThreadDemo\obj\Debug\ThreadDemo.exe
+c:\users\tung\documents\visual studio 2017\Projects\ThreadDemo\ThreadDemo\obj\Debug\ThreadDemo.pdb
