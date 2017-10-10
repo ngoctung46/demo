@@ -1,0 +1,5 @@
+C:\Users\Tung\documents\visual studio 2017\Projects\ThreadDemo\AsyncDemo\bin\Debug\AsyncDemo.exe.config
+C:\Users\Tung\documents\visual studio 2017\Projects\ThreadDemo\AsyncDemo\bin\Debug\AsyncDemo.exe
+C:\Users\Tung\documents\visual studio 2017\Projects\ThreadDemo\AsyncDemo\bin\Debug\AsyncDemo.pdb
+C:\Users\Tung\documents\visual studio 2017\Projects\ThreadDemo\AsyncDemo\obj\Debug\AsyncDemo.exe
+C:\Users\Tung\documents\visual studio 2017\Projects\ThreadDemo\AsyncDemo\obj\Debug\AsyncDemo.pdb
